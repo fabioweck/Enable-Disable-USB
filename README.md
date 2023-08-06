@@ -9,3 +9,6 @@ Inside the string invoked by PowerShell, there is a "-windowstyle" set as "Hidde
 displayed to the user.
 
 Further improvements will include a list of ports in the machine with options to deactivate/activate each one!
+
+
+![focusrite](https://github.com/fabioweck/Enable-Disable-USB/assets/115494238/b02ddb84-1037-4890-85f0-9cb8c5a08b66)
