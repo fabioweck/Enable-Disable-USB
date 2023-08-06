@@ -21,7 +21,13 @@
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
                 HeightRequest="100"
                 HorizontalOptions="Center"
-                />
+                >
+                <Image.Shadow>
+                    <Shadow Brush="Red"
+                    Radius="20"
+                    Opacity="0.8" />
+                </Image.Shadow>
+            </Image>
             <Grid RowDefinitions="*" ColumnDefinitions="*"
                   HorizontalOptions="Center"
                   VerticalOptions="Center"
